@@ -2,7 +2,7 @@
 My name is Huynh Phu Si. I am a math teacher, web programer at Vinh Long. I am interested in the following topics: math teaching, web programing, LaTeX. Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Website](icon_web.png) Website](https://huynhphusi.com) [![Facebook](icon_facebook.png) Facebook](https://fb.com/huynhphusi/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube]([[https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw](https://www.youtube.com/@sephuynh7312)](https://www.youtube.com/@sephuynh7312))
+[![Website](https://github.com/huynhphusi/huynhphusi/blob/main/icon_web.png) Website](https://huynhphusi.com) [![Facebook](https://github.com/huynhphusi/huynhphusi/blob/main/icon_facebook.png) Facebook](https://fb.com/huynhphusi/) [![Youtube](https://github.com/huynhphusi/huynhphusi/blob/main/icon_youtube.png) Youtube](https://www.youtube.com/@sephuynh7312)
 
 
 

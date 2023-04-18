@@ -12,8 +12,8 @@ My name is Huynh Phu Si. I am a math teacher, web programer at Vinh Long. I am i
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huynhphusi&repo=Canvas-Probability&theme=radical" />
 </a>    
-<a href="https://github.com/huynhphusi/Canvas-Probability">
+<a href="https://github.com/huynhphusi/Kanban-board-LaTeX">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huynhphusi&repo=Canvas-Probability&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huynhphusi&repo=Kanban-board-LaTeX&theme=merko" />
 </a>
-https://github.com/anuraghazra/github-readme-stats
+<!-- https://github.com/anuraghazra/github-readme-stats -->

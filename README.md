@@ -38,4 +38,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huynhphusi&repo=Kanban-board-LaTeX&theme=merko" />
 </a>
+<a href="https://github.com/huynhphusi/ScoreTable">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huynhphusi&repo=ScoreTable&theme=gruvbox" />
+</a>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
